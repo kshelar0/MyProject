@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="LearnMaven.L_Maven1.KsTest"/>
+      <class name="LearnMaven.L_Maven1.Test3"/>
+      <class name="LearnMaven.L_Maven1.Test2"/>
+      <class name="LearnMaven.L_Maven1.Test1"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
